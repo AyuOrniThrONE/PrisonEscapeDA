@@ -30,11 +30,6 @@ The project investigates **how often helicopter-assisted prison escapes occur**,
 
 The goal of this project is to demonstrate **practical data analysis skills**, including data cleaning, aggregation, exploratory analysis, and insight generation, while working on a unique and real-world dataset.
 
-This project is suitable for:
-- Data analysis portfolios  
-- Resume and interview demonstrations  
-- Learning exploratory data analysis (EDA) workflows  
-
 ---
 
 ## Problem Statement
